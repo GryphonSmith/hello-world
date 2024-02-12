@@ -1,5 +1,7 @@
 package edu.pcc.cis.helloworld;
 
 public class HelloWorld {
-    console.out.Println("HelloWorld");
+    public static void main(String[] args) {
+    System.out.println("Hello World!");
+    }
 }
